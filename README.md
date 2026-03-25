@@ -1,27 +1,27 @@
-# Hi, I'm Arseniy 👋
+# howdy, Senya is here 👋
 
-Junior Python Backend Developer.
+junior python backend developer.
 
-I build backend projects with **Python, Django, Flask, DRF** and work with **REST API, PostgreSQL/SQLite, Git, Docker**.
+i build backend projects with **Python, Django, Flask, DRF** and work with **REST API, PostgreSQL/SQLite, Git, Docker**.
 
-## About me
-- Backend developer focused on Python web development
-- Built projects with authentication, comments, APIs, Telegram bots, and service logic
-- Strong attention to detail and confident working with English technical documentation
+## a few words about me
+- backend developer focused on Python web development
+- built projects with authentication, comments, APIs, Telegram bots, and service logic
+- have strong attention to detail and confident working with English technical documentation
 
-## Tech stack
-**Languages:** Python, SQL  
-**Frameworks:** Django, Django REST Framework, Flask, FastAPI 
-**Tools:** Git, GitHub, Docker, GitHub Actions, Linux  
-**Other:** REST API, ORM, testing, deployment
+## tech stack
+**languages:** Python, SQL  
+**frameworks:** Django, Django REST Framework, Flask, FastAPI 
+**tools:** Git, GitHub, Docker, GitHub Actions, Linux  
+**other:** REST API, ORM, testing, deployment
 
-## Projects
-- **Recipe app** — web application for publishing recipes
-- **Blog platform** — authentication, posts, comments
+## projects
+- **recipe app** — web application for publishing recipes
+- **blog platform** — authentication, posts, comments
 - **REST API service** — backend API for an online platform
-- **Telegram assistant bot**
+- **telegram assistant bot**
 - **URL shortener service**
 
-## Contacts
+## contact me
 - Email: ohrimmmmmm@yahoo.com
 - Telegram: [@boundlessend](https://t.me/boundlessend)
