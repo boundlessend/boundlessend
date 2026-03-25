@@ -1,6 +1,6 @@
 # howdy, Senya is here 👋
 
-junior python backend developer / i build backend projects with **Python, Django, Flask, DRF** and work with **REST API, PostgreSQL/SQLite, Git, Docker**.
+junior python backend developer / i build backend projects with **Python, Django, Flask, DRF** and work with **REST API, PostgreSQL/SQLite, Git, Docker**
 
 ## a litte about me
 - backend developer focused on Python web development
@@ -8,10 +8,10 @@ junior python backend developer / i build backend projects with **Python, Django
 - have strong attention to detail and confident working with English technical documentation
 
 ## tech stack
-**languages:** Python, SQL
-**frameworks:** Django, Django REST Framework, Flask, FastAPI
-**tools:** Git, GitHub, Docker, GitHub Actions, Linux
-**other:** REST API, ORM, testing, deployment
+- **languages:** Python, SQL
+- **frameworks:** Django, Django REST Framework, Flask, FastAPI
+- **tools:** Git, GitHub, Docker, GitHub Actions, Linux
+- **other:** REST API, ORM, testing, deployment
 
 ## projects
 - **recipe app** — web application for publishing recipes
@@ -21,5 +21,5 @@ junior python backend developer / i build backend projects with **Python, Django
 - **URL shortener service**
 
 ## contact me
-- Email: ohrimmmmmm@yahoo.com
-- Telegram: [@boundlessend](https://t.me/boundlessend)
+- mail: ohrimmmmmm@yahoo.com
+- tg: [@boundlessend](https://t.me/boundlessend)
