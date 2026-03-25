@@ -1,8 +1,8 @@
-# howdy, Senya is here 👋
+# howdy, Senya's here (👁ˋ _ ˊ 👁)
 
 junior python backend developer / i build backend projects with **Python, Django, Flask, DRF** and work with **REST API, PostgreSQL/SQLite, Git, Docker**
 
-## a litte about me
+## a little about me
 - backend developer focused on Python web development
 - built projects with authentication, comments, APIs, Telegram bots, and service logic
 - have strong attention to detail and confident working with English technical documentation
