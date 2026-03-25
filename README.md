@@ -1,4 +1,4 @@
-# howdy, Senya's here (👁ˋ _ ˊ 👁)
+# howdy, Senya's here ( ◡̀_◡́)ᕤ
 
 junior python backend developer / i build backend projects with **Python, Django, Flask, DRF** and work with **REST API, PostgreSQL/SQLite, Git, Docker**
 
