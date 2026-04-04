@@ -21,5 +21,5 @@ junior python backend developer / i build backend projects with **Python, Django
 - **URL shortener service**
 
 ## contact me
-- mail: ohrimmmmmm@yahoo.com
+- mail: ohrimmmmm@yahoo.com
 - tg: [@boundlessend](https://t.me/boundlessend)
