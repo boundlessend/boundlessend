@@ -1,4 +1,4 @@
-# howdy, Senya's here ( ◡̀_◡́)ᕤ
+# howdy ( ◡̀_◡́)ᕤ
 
 python backend developer
 
@@ -82,8 +82,3 @@ work mostly with **FastAPI**, **PostgreSQL**, **SQLAlchemy**, **Alembic**, **Pyd
 - testing strategy for APIs, auth, WebSocket, and service layers
 - Docker Compose workflows
 - backend agents, MCP tools, and fake LLM pipelines
-
-## contact
-
-- mail: ohrimmmmm@yahoo.com
-- telegram: [@boundlessend](https://t.me/boundlessend)
