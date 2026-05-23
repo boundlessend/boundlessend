@@ -1,4 +1,4 @@
-<h1 align="center">senya</h1>
+<h1 align="center">( ◡̀_◡́)ᕤ senya</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
